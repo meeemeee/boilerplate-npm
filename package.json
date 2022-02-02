@@ -3,7 +3,6 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Medea Varga",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,4 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+}
+{
+	"author": "Medea Varga"
 }
